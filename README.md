@@ -1,5 +1,5 @@
 # cj_gpt_pet
-
+월루중에 한도를 두번이나 잡쉈다고
 ChatGPT custom pet: **파란 프로펠러**.
 
 ## Files
